@@ -27,7 +27,7 @@
     "vite": "2.1.2"
   },
   "peerDependencies": {
-    "vite": "^2"
+    "vite": "^[25]"
   },
   "scripts": {
     "prepack": "rm -rf index.* && tsc"
